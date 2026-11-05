@@ -1,0 +1,24 @@
+{
+ "版本": "8.4-draft",
+ "說明": "草稿，版本.json 不指向這裡；審完才建 8.4/",
+ "檔案": {
+  "頁面/共用段/1-基礎.tsx": "8eee08f002c06956aa100477f6776be131ae96d77cfc931c9c2e7f78d64cbe31",
+  "頁面/共用段/10-條圖.tsx": "2d0712c3b0d5ace90833a76617a4f6b5f85e8e61b31a48c79c72b4e772a24304",
+  "頁面/共用段/11-柱圖.tsx": "739ad5a6be369c956f625f707610f068e734b15978b648d21c022b8c2e289cc0",
+  "頁面/共用段/12-走勢.tsx": "f615d3766b95a0896b4703dadc32b47edb6eb207f45613742faff742ea9d6de0",
+  "頁面/共用段/13-屬性.tsx": "6bc797620c97b9fa7ab8d9403d2b91d0e8c7846e1f21fa072dd7531d6a7b57d9",
+  "頁面/共用段/2-下一步.tsx": "0ea0c12d49bcdc2273e84487d78b6f95bc6e98851c51a8eba8a589b9e58e1f20",
+  "頁面/共用段/3-方塊.tsx": "83b950410c8d886cf6fe36f0e894f647a8fd36d4b296a7f823d637007d02476e",
+  "頁面/共用段/4-舞台.tsx": "7dc106e5daf8b3b11b9e8482f020d0840420fbffc8289bab6580c04e6b191302",
+  "頁面/共用段/5-漏斗.tsx": "8bc1b2de1008bcf71da55f4f2e6ad734e8ead6a658a7dbb0979fa08ecc321c43",
+  "頁面/共用段/6-雷達.tsx": "2cf4c2748cb3e941ab577d6daba97483a7da0712f20508e1184693e454a46002",
+  "頁面/共用段/7-三圈.tsx": "94359fac5fd07ac20e945bf72e5328a66eb4f3c438b3ccbdd8c4f6f771d611ff",
+  "頁面/共用段/8-頭像.tsx": "77e4adb3258d7d3135f344c6ba1fdc25a3829f210fe8f72b6905dc7de514e1ae",
+  "頁面/共用段/9-進度條.tsx": "0d973c6c97deb2b95b7a57fb73422f0cd87ee132b40f81ac1cc78b856d260554",
+  "頁面/自介卡.tsx": "28f90d7f1666e2247d2d018ffe41b16ef7faf860e58001c8e8f5dc41fda1871e",
+  "頁面/記分板.tsx": "183fccb21b23a0f01383dfbf19bcc5ef7ff0cd34ebfcfd8c18cb708a00b15083",
+  "頁面/設計系統.md": "92fd7628d0b50f3643d18748346e29014c23cfc6a45c9630363b71826b53a5d8",
+  "頁面/診斷報告.tsx": "ff0ecbe4e1318141e749a95cfff811b597100fc819d5ef8628c5402b0d4c3f53",
+  "頁面/進度總表.tsx": "1ef4b3f211ca3726d3c94ddc81b08920689051e5c5d248d925e311fa9306800b"
+ }
+}
