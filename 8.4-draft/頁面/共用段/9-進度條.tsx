@@ -1,0 +1,2 @@
+function Prog({w,d}:{w:string[];d:number}){const{T,x,g,s}=useT();return<div><div style={{display:'flex',gap:4}}>{w.map((a,i)=><div key={a} style={{flex:1,height:8,borderRadius:4,background:i>d?T.fill.secondary:g,opacity:i==d?.55:1}}/>)}</div>
+<div style={{display:'flex',gap:4,marginTop:6}}>{w.map((a,i)=><div key={a} style={{...s(i==d?x.primary:x.secondary,12,i==d?600:400),flex:1,minWidth:0,lineHeight:1.3,textAlign:'center'}}>{i<d?'✓':i==d?'●':'○'}<br/>{a}</div>)}</div></div>}

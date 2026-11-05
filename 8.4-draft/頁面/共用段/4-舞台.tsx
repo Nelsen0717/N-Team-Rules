@@ -1,0 +1,1 @@
+function Stage({children}:{children:any}){const r=useRef<HTMLDivElement>(null),[v,sv]=useState(false);useEffect(()=>{const go=()=>sv(true),t=setTimeout(go,8000),o=new IntersectionObserver(e=>{if(e[0].isIntersecting)go()},{threshold:.2});if(r.current)o.observe(r.current);return()=>{clearTimeout(t);o.disconnect()}},[]);return<div ref={r} className={v?'':'w'}>{children}</div>}

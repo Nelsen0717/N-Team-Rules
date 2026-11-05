@@ -1,0 +1,1 @@
+function Next({k,t,d}:{k:string;t:string;d?:string}){const{x,g,s}=useT();return<div style={{borderLeft:'4px solid '+g,padding:'6px 0 6px 14px'}}><div style={s(x.secondary,13,600)}>{k}</div><div style={{...s(x.primary,20,600),lineHeight:1.4}}>{t}</div>{d&&<div style={s(x.secondary,14)}>{d}</div>}</div>}
